@@ -1,5 +1,3 @@
-import Image from 'next/image';
-
 export default function Home() {
-  return <div>Petshop</div>;
+  return <h2 className="text-accent-blue">Home</h2>;
 }
